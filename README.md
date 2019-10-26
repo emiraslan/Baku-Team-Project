@@ -1,11 +1,13 @@
 # Baku-Team-Project
 
+## Frontend
 
-https://github.com/kerimovscreations/naturun-frontend
+[Please click here for the repository](https://github.com/kerimovscreations/naturun-frontend)
 
+## Android App
 
-https://github.com/kerimovscreations/naturun-android
+[Please click here for the repository](https://github.com/kerimovscreations/naturun-android)
 
+## Backend
 
-https://github.com/kerimovscreations/naturun-backend
-
+[Please click here for the repository](https://github.com/kerimovscreations/naturun-backend)
