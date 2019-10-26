@@ -1,6 +1,6 @@
 # NATURUN
 
-## Baku Team Project
+## JunctionX Budapest - Baku Team Project
 
 ### Frontend
 
